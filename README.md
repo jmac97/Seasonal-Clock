@@ -8,8 +8,6 @@ This seasonal calendar displays the traditional East Asian calendar, which was b
 
 The clock uses a RTC to keep track of the date and time. An Arduino then uses this information to display the correct information on the LCD as well as spin a stepper motor to move the dial accordingly.
 
-More pictures and videos can be found [here](https://mceldoon.wixsite.com/juliem/copy-of-poem-box).
-
 ## BOM
 * Arduino Uno
 * 20x4 LCD
